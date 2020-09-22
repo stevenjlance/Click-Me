@@ -38,6 +38,7 @@ button1.addEventListener("click",function(){
 ```
 4. Using `innerHTML`, update the `<div id="content1"></div>` to say Hello World! when the button is clicked.  
 ![](https://media.giphy.com/media/btgCagST8O6Cm6IGrb/giphy.gif) 
+
 Remember that to update the innerHTML inside the event listener we would do something like:
 ```javascript
 button1.addEventListener(“click”, function(){
@@ -47,13 +48,16 @@ button1.addEventListener(“click”, function(){
 ```
 5. Update the `<div id="content2"></div>` with your own message when button2 is clicked!  
 ![](https://media.giphy.com/media/Nd96iJw0Pdz7aEK87X/giphy.gif) 
+
 6. Update the `<div id="content3"></div>` with text in an h1 header when button3 is clicked. We can also add in HTML tags with inner HTML by using the accent key (`). **NOTE**: This is the key next to the number 1 on your keyboard.
 ```javascript
 content3.innerHTML = `<h1>This lets me put a header in</h1>`
 ``` 
 ![](https://media.giphy.com/media/1gZu0a9D4Yp8pdT6J6/giphy.gif) 
+
 7. Update the `<div id="content4"></div>` with the image of the best homeroom (image is in your files) when button4 is clicked!  
 ![](https://media.giphy.com/media/ttor3sfV4oMDRhE9l0/giphy.gif)  
+
 8. Rick roll the person by giving them a link that takes them to the [YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO) when they click button5.
 **HINT**: The HTML tag for a link is `<a href="PASTE_LINK_HERE">CLICK ME</a>`
 ![](https://media.giphy.com/media/wRqJHU3PilX1lV4w9e/giphy.gif) 
