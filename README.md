@@ -1,6 +1,7 @@
 CLICK ME LAB
 =========
 ![](https://media.giphy.com/media/QsCHgEPBO1zixjSlQM/giphy.gif) 
+
 Sometimes when you see a button, you just have to click it. 
 
 **GOAL**: Today we are going to use JavaScript to modify our webpages when a button is clicked!
@@ -35,7 +36,7 @@ button1.addEventListener("click",function(){
   console.log("Button 1 clicked!");
 })
 ```
-4. Using `innerHTML`, update the `<div id="content1"></div>` to say Hello World! when the button is clicked.
+4. Using `innerHTML`, update the `<div id="content1"></div>` to say Hello World! when the button is clicked.  
 ![](https://media.giphy.com/media/btgCagST8O6Cm6IGrb/giphy.gif) 
 Remember that to update the innerHTML inside the event listener we would do something like:
 ```javascript
@@ -49,7 +50,7 @@ button1.addEventListener(“click”, function(){
 6. Update the `<div id="content3"></div>` with text in an h1 header when button3 is clicked. We can also add in HTML tags with inner HTML by using the accent key (`). **NOTE**: This is the key next to the number 1 on your keyboard.
 ```javascript
 content3.innerHTML = `<h1>This lets me put a header in</h1>`
-```
+``` 
 ![](https://media.giphy.com/media/1gZu0a9D4Yp8pdT6J6/giphy.gif) 
 7. Update the `<div id="content4"></div>` with the image of the best homeroom (image is in your files) when button4 is clicked!  
 ![](https://media.giphy.com/media/ttor3sfV4oMDRhE9l0/giphy.gif)  
