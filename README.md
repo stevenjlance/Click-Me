@@ -60,4 +60,8 @@ content3.innerHTML = `<h1>This lets me put a header in</h1>`
 
 8. Rick roll the person by giving them a link that takes them to the [YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO) when they click button5.
 **HINT**: The HTML tag for a link is `<a href="PASTE_LINK_HERE">CLICK ME</a>`
-![](https://media.giphy.com/media/wRqJHU3PilX1lV4w9e/giphy.gif) 
+![](https://media.giphy.com/media/wRqJHU3PilX1lV4w9e/giphy.gif)
+
+9. **STRETCH**: Add your own button to `index.html`. When clicked, have it update the content1 div with a new message.
+
+10. **DOUBLE STRETCH**: Add another button and a new content div to `index.html`. When the button is clicked, print the number of times the button has been clicked to the screen.
