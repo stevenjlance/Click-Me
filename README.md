@@ -55,10 +55,10 @@ content3.innerHTML = `<h1>This lets me put a header in</h1>`
 ``` 
 ![](https://media.giphy.com/media/1gZu0a9D4Yp8pdT6J6/giphy.gif) 
 
-7. Update the `<div id="content4"></div>` with the image of the best homeroom (image is in your files) when button4 is clicked!  
+7. Update the `<div id="content4"></div>` with the image of the best homeroom (image is in your files) when **the mouse is over button4**!  
 ![](https://media.giphy.com/media/ttor3sfV4oMDRhE9l0/giphy.gif)  
 
-8. Rick roll the person by giving them a link that takes them to the [YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO) when they click button5.
+8. Rick roll the person by giving them a link that takes them to the [YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO) when **the mouse enters button5**.
 **HINT**: The HTML tag for a link is `<a href="PASTE_LINK_HERE">CLICK ME</a>`
 ![](https://media.giphy.com/media/wRqJHU3PilX1lV4w9e/giphy.gif)
 
